@@ -1,3 +1,10 @@
+body, html {
+margin-left:3%;
+margin-right:3%;
+margin-bottom:3%;
+margin-top:3%;
+}
+
 h1, p
 {
     text-align: center;
@@ -60,4 +67,3 @@ font-family:constantia;}
     width: 50%;
 	font-size:125%;
 }
-
