@@ -1,3 +1,7 @@
+div
+{
+     margin: 2cm 4cm 3cm 4cm;
+}
 h1, p
 {
     text-align: center;
@@ -6,7 +10,7 @@ h1, p
 {
 	font-size:550%;
 	font-family:debi sementelli,cursive;
-	margin: 3em;
+	margin: 5% auto;
 }
 	
 #init
